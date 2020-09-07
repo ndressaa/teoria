@@ -1,16 +1,29 @@
 ## Algoritmos com seleção
 
 #### Seleção simples
-`if()` _`then`_ `{}`
+~~~
+if (<condition = true>) <then> {
+    <instructions>
+}
+~~~
 
 #### Seleção composta ou dupla
-`if ()` _`then`_ `{}`
-`else {}`
+~~~
+if (<condition = true>) <then> {
+    <instructions>
+} else <condition = false> {
+    <instructions>
+}
+~~~
 
 #### Seleção concatenada ou aninhada
-`if ()` _`then`_ `{`
-`____if ()` _`then`_ `{}`
-`}`
+~~~
+if (<condition = true>) <then> {
+    if (<condition = true>) <then> {
+        <instructions>
+    }
+}
+~~~
 
 #### Seleção múltipla
 `switch case`
