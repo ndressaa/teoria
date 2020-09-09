@@ -17,3 +17,7 @@ Um problema computacional possui várias ocorrências (ou instâncias). Uma ocor
 Um algoritmo deve sempre ser desenvolvido para resolver **todas** as possíveis ocorrências de um problema.
 
 Ao desenvolver algoritmos, umas das habilidades mais importantes é identificar qual é a entrada e qual é a saída do algoritmo a partir da descrição do problema.
+
+Todo algoritmo está relacionado com a solução de um determinado problema computacional. Portanto, construir um algoritmo para um dado problema significa, antes de mais nada, determinar uma forma para solucionar um problema e descrevê-la como uma sequência finita de instruções em alguma linguagem.
+
+A organização do processo de resolução de problemas é extremamente desejável, pois somente assim podemos verificar onde o processo não é eficiente. Identificadas as deficiências deste processo, procuramos formas de corrigi-las e, consequentemente, aumentamos a nossa capacidade de resolver problemas.
